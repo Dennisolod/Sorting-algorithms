@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sort.SortsTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2023-10-19T01:43:13" hostname="DennisLaptop" time="0.058">
+  <properties/>
+  <testcase name="test00Insertion" classname="sort.SortsTest" time="0.007"/>
+  <testcase name="test01Insertion" classname="sort.SortsTest" time="0.008"/>
+  <testcase name="test02Insertion" classname="sort.SortsTest" time="0.001"/>
+  <testcase name="test03Insertion" classname="sort.SortsTest" time="0.0"/>
+  <testcase name="test04Insertion" classname="sort.SortsTest" time="0.002"/>
+  <testcase name="test10Merge" classname="sort.SortsTest" time="0.002"/>
+  <testcase name="test11Merge" classname="sort.SortsTest" time="0.002"/>
+  <testcase name="test12Mergesort" classname="sort.SortsTest" time="0.002"/>
+  <testcase name="test13Mergesort" classname="sort.SortsTest" time="0.003"/>
+  <testcase name="test14Mergesort" classname="sort.SortsTest" time="0.0"/>
+  <testcase name="test20Partition" classname="sort.SortsTest" time="0.004"/>
+  <testcase name="test21Partition" classname="sort.SortsTest" time="0.001"/>
+  <testcase name="test22Partition" classname="sort.SortsTest" time="0.001"/>
+  <testcase name="test23Quicksort" classname="sort.SortsTest" time="0.004"/>
+  <testcase name="test24Quicksort" classname="sort.SortsTest" time="0.001"/>
+  <testcase name="test30Radix" classname="sort.SortsTest" time="0.004"/>
+  <testcase name="test31Radix" classname="sort.SortsTest" time="0.003"/>
+  <testcase name="test32Radix" classname="sort.SortsTest" time="0.001"/>
+  <testcase name="test33Radix" classname="sort.SortsTest" time="0.0"/>
+  <testcase name="test34Radix" classname="sort.SortsTest" time="0.003"/>
+  <system-out><![CDATA[true
+true
+true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
